@@ -1,22 +1,24 @@
-# QOCO
+# QECO
 ## A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/QOCO_IEEEJournal)](https://github.com/ImanRht/QOCO_IEEEJournal/releases)
+[![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/QOCO_IEEEJournal)](https://github.com/ImanRht/QECO_IEEEJournal/releases)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImanRht/QOCO)
-[![GitHub stars](https://img.shields.io/github/stars/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/network/members) 
-[![GitHub issues](https://img.shields.io/github/issues/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/issues) 
-[![GitHub license](https://img.shields.io/github/license/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/blob/master/LICENSE) 
+[![GitHub stars](https://img.shields.io/github/stars/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QECO_IEEEJournal/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QECO_IEEEJournal/network/members) 
+[![GitHub issues](https://img.shields.io/github/issues/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QECO_IEEEJournal/issues) 
+[![GitHub license](https://img.shields.io/github/license/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QECO_IEEEJournal/blob/master/LICENSE) 
+
+
 
 ## Cite this Work
 
 If you use this work in your research, please cite it as follows:
 
-I. Rahmati, H. Shahmansouri, and A. Movaghar, "[QOCO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://arxiv.org/pdf/2311.02525.pdf)", submitted to IEEE Internet of Things Journal, Oct 2023.
+I. Rahmati, H. Shahmansouri, and A. Movaghar, "[QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://arxiv.org/pdf/2311.02525.pdf)".
 
 ```
 @misc{rahmati2023qoco,
-	title={QOCO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing}, 
+	title={QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing}, 
 	author={Iman Rahmati and Hamed Shah-Mansouri and Ali Movaghar},
 	year={2023},
 	eprint={2311.02525},
