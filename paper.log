@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.28)  7 NOV 2023 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.28)  8 AUG 2024 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1357,27 +1357,27 @@ LaTeX Warning: Label `26@cref' multiply defined.
 )
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 392.
-LaTeX Font Info:    ... okay on input line 392.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
 
 -- Lines per column: 58 (exact).
-Package hyperref Info: Link coloring OFF on input line 392.
+Package hyperref Info: Link coloring OFF on input line 387.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1387,21 +1387,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count413
 )
-LaTeX Info: Redefining \ref on input line 392.
-LaTeX Info: Redefining \pageref on input line 392.
-LaTeX Info: Redefining \nameref on input line 392.
+LaTeX Info: Redefining \ref on input line 387.
+LaTeX Info: Redefining \pageref on input line 387.
+LaTeX Info: Redefining \nameref on input line 387.
  (./paper.out) (./paper.out)
 \@outlinefile=\write7
 \openout7 = `paper.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 392.
+LaTeX Info: Redefining \microtypecontext on input line 387.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `alltext-nott'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using expansion set `alltext'.
-LaTeX Info: Redefining \showhyphens on input line 392.
+LaTeX Info: Redefining \showhyphens on input line 387.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1433,7 +1433,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count420
-Package soulpos Info: Loading soulutf8 on input line 392.
+Package soulpos Info: Loading soulutf8 on input line 387.
 
 (/usr/local/texlive/2021/texmf-dist/tex/generic/soulutf8/soulutf8.sty
 Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
@@ -1466,12 +1466,12 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 Package microtype Info: Fixing zero fontdimen6 for font `U/MnSymbolC/m/n/10'
-(microtype)             (new value: 10.0pt) on input line 392.
+(microtype)             (new value: 10.0pt) on input line 387.
 Package microtype Info: Fixing zero fontdimen6 for font `U/MnSymbolC/m/n/7'
-(microtype)             (new value: 7.0pt) on input line 392.
+(microtype)             (new value: 7.0pt) on input line 387.
 Package microtype Info: Fixing zero fontdimen6 for font `U/MnSymbolC/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 392.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 392
+(microtype)             (new value: 5.0pt) on input line 387.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 387
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1480,7 +1480,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 392
+LaTeX Font Info:    Trying to load font information for U+msb on input line 387
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1490,185 +1490,213 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for T1+qag on input line 44
-9.
+4.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tex-gyre/t1qag.fd
 File: t1qag.fd 2009/09/25 v1.2 font definition file for T1/qag
 )
 Package microtype Info: Fixing zero fontdimen6 for font `U/MnSymbolC/m/n/8'
-(microtype)             (new value: 8.0pt) on input line 449.
+(microtype)             (new value: 8.0pt) on input line 444.
 Package microtype Info: Fixing zero fontdimen6 for font `U/MnSymbolC/m/n/6'
-(microtype)             (new value: 6.0pt) on input line 449.
+(microtype)             (new value: 6.0pt) on input line 444.
 
-Underfull \hbox (badness 2197) in paragraph at lines 449--449
+Underfull \hbox (badness 2197) in paragraph at lines 444--444
 [][][]\T1/ptm/m/n/8 (+20) I. Rah-mati and A. Movaghar are with the De-part-ment
  of Com-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 449--449
+Underfull \hbox (badness 7326) in paragraph at lines 444--444
 \T1/ptm/m/n/8 (+20) puter En-gi-neer-ing, Sharif Uni-ver-sity of Tech-nol-ogy, 
-Tehran, Iran (e-
+Tehran, Iran
  []
 
 Package lettrine.sty Info: Targeted height = 17.14496pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.14503pt (M);
-(lettrine.sty)             reported on input line 484.
+(lettrine.sty)             reported on input line 479.
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 \openout3 = `paper.upa'.
 
 
 ]
-Underfull \vbox (badness 1024) has occurred while \output is active []
-
 \LTGbeginlineexample=\count421
 \LTGendlineexample=\count422
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Fig/queue.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<Fig/queue.pdf, id=161, 782.925pt x 277.9986pt>
-File: Fig/queue.pdf Graphic file (type pdf)
-<use Fig/queue.pdf>
-Package pdftex.def Info: Fig/queue.pdf  used on input line 553.
+ [2]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./queue.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<queue.pdf, id=200, 782.925pt x 277.9986pt>
+File: queue.pdf Graphic file (type pdf)
+<use queue.pdf>
+Package pdftex.def Info: queue.pdf  used on input line 592.
 (pdftex.def)             Requested size: 252.0pt x 89.47887pt.
-[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.567  \cite{rahmati2023qoco}
-                              <./Fig/queue.pdf>]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 584.
+(amsmath)                 on input line 623.
 
-[3]
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 642
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.648 \end{alignat}
+                    <./queue.pdf>]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 681
 .
- (/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/ubbm.fd
-File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-) [4]
-[5]
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Fig/DQN.pdf): PDF inclusio
-n: found PDF version <1.7>, but at most version <1.5> allowed
-<Fig/DQN.pdf, id=268, 902.41138pt x 529.01637pt>
-File: Fig/DQN.pdf Graphic file (type pdf)
-<use Fig/DQN.pdf>
-Package pdftex.def Info: Fig/DQN.pdf  used on input line 813.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+) [4] [5]
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./DQN.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<DQN.pdf, id=284, 902.41138pt x 529.01637pt>
+File: DQN.pdf Graphic file (type pdf)
+<use DQN.pdf>
+Package pdftex.def Info: DQN.pdf  used on input line 808.
 (pdftex.def)             Requested size: 252.0pt x 147.72803pt.
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 828.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 859.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\in' on input line 859.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 859.
-
+put line 864.
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.860 \begin{alignat}{1}
-                         <./Fig/DQN.pdf>]
+l.895 
+       <./DQN.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 913.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\in' on input line 913.
+(hyperref)                removing `math shift' on input line 907.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 913.
+(hyperref)                removing `\in' on input line 907.
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{equation.4.
-28}) has been already used, duplicate ignored
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 907.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\in' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 961.
+
+[7]pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.28}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 \end{alignat}
+                   
+Underfull \hbox (badness 10000) in paragraph at lines 978--980
+
+ []
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.940 
-      ]
-<Fig/111.pdf, id=331, 457.71pt x 426.59375pt>
-File: Fig/111.pdf Graphic file (type pdf)
-<use Fig/111.pdf>
-Package pdftex.def Info: Fig/111.pdf  used on input line 1006.
-(pdftex.def)             Requested size: 126.0pt x 117.43405pt.
-<Fig/112.pdf, id=332, 457.71pt x 426.59375pt>
-File: Fig/112.pdf Graphic file (type pdf)
-<use Fig/112.pdf>
-Package pdftex.def Info: Fig/112.pdf  used on input line 1012.
-(pdftex.def)             Requested size: 126.0pt x 117.43405pt.
-<Fig/222.pdf, id=333, 456.70625pt x 426.59375pt>
-File: Fig/222.pdf Graphic file (type pdf)
-<use Fig/222.pdf>
-Package pdftex.def Info: Fig/222.pdf  used on input line 1024.
-(pdftex.def)             Requested size: 126.0pt x 117.68791pt.
-<Fig/223.pdf, id=334, 457.71pt x 427.5975pt>
-File: Fig/223.pdf Graphic file (type pdf)
-<use Fig/223.pdf>
-Package pdftex.def Info: Fig/223.pdf  used on input line 1030.
-(pdftex.def)             Requested size: 126.0pt x 117.71037pt.
-<Fig/333.pdf, id=338, 457.71pt x 427.5975pt>
-File: Fig/333.pdf Graphic file (type pdf)
-<use Fig/333.pdf>
-Package pdftex.def Info: Fig/333.pdf  used on input line 1044.
-(pdftex.def)             Requested size: 126.0pt x 117.71037pt.
-<Fig/334.pdf, id=339, 453.695pt x 437.635pt>
-File: Fig/334.pdf Graphic file (type pdf)
-<use Fig/334.pdf>
-Package pdftex.def Info: Fig/334.pdf  used on input line 1050.
-(pdftex.def)             Requested size: 126.0pt x 121.5353pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
-has been already used, duplicate ignored
+l.1091 
+       ]
+<completed_tasks_1.pdf, id=363, 455.7025pt x 426.59375pt>
+File: completed_tasks_1.pdf Graphic file (type pdf)
+<use completed_tasks_1.pdf>
+Package pdftex.def Info: completed_tasks_1.pdf  used on input line 1097.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+<completed_tasks_2.pdf, id=364, 455.7025pt x 426.59375pt>
+File: completed_tasks_2.pdf Graphic file (type pdf)
+<use completed_tasks_2.pdf>
+Package pdftex.def Info: completed_tasks_2.pdf  used on input line 1103.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+<energy_1.pdf, id=365, 455.7025pt x 426.59375pt>
+File: energy_1.pdf Graphic file (type pdf)
+<use energy_1.pdf>
+Package pdftex.def Info: energy_1.pdf  used on input line 1117.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+<energy_2.pdf, id=366, 455.7025pt x 426.59375pt>
+File: energy_2.pdf Graphic file (type pdf)
+<use energy_2.pdf>
+Package pdftex.def Info: energy_2.pdf  used on input line 1123.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+<delay_1.pdf, id=367, 455.7025pt x 427.5975pt>
+File: delay_1.pdf Graphic file (type pdf)
+<use delay_1.pdf>
+Package pdftex.def Info: delay_1.pdf  used on input line 1135.
+(pdftex.def)             Requested size: 126.0pt x 118.22581pt.
+<delay_2.pdf, id=368, 455.7025pt x 426.59375pt>
+File: delay_2.pdf Graphic file (type pdf)
+<use delay_2.pdf>
+Package pdftex.def Info: delay_2.pdf  used on input line 1141.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+<qoe_1.pdf, id=369, 455.7025pt x 424.58624pt>
+File: qoe_1.pdf Graphic file (type pdf)
+<use qoe_1.pdf>
+Package pdftex.def Info: qoe_1.pdf  used on input line 1153.
+(pdftex.def)             Requested size: 126.0pt x 117.39323pt.
+<qoe_2.pdf, id=370, 455.7025pt x 426.59375pt>
+File: qoe_2.pdf Graphic file (type pdf)
+<use qoe_2.pdf>
+Package pdftex.def Info: qoe_2.pdf  used on input line 1159.
+(pdftex.def)             Requested size: 126.0pt x 117.94829pt.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1060 
-       pdfTeX warning (ext4): destination with the same identifier (name{figure
-.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.1060 
+l.1185 
        pdfTeX warning (ext4): destination with the same identifier (name{figure
 .4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1060 
-        <./Fig/111.pdf> <./Fig/112.pdf> <./Fig/222.pdf> <./Fig/223.pdf>]
-<Fig/444.pdf, id=434, 456.70625pt x 426.59375pt>
-File: Fig/444.pdf Graphic file (type pdf)
-<use Fig/444.pdf>
-Package pdftex.def Info: Fig/444.pdf  used on input line 1074.
-(pdftex.def)             Requested size: 126.0pt x 117.68791pt.
-<Fig/445.pdf, id=435, 457.71pt x 426.59375pt>
-File: Fig/445.pdf Graphic file (type pdf)
-<use Fig/445.pdf>
-Package pdftex.def Info: Fig/445.pdf  used on input line 1080.
-(pdftex.def)             Requested size: 126.0pt x 117.43405pt.
-
-(./paper.bbl [9pdfTeX warning (ext4): destination with the same identifier (nam
-e{figure.5}) has been already used, duplicate ignored
+l.1185 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.68 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.6
-}) has been already used, duplicate ignored
+l.1185 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.68 
-      <./Fig/333.pdf> <./Fig/334.pdf> <./Fig/444.pdf> <./Fig/445.pdf>])
-[10
+l.1185 
+        <./completed_tasks_1.pdf> <./completed_tasks_2.pdf> <./energy_1.pdf> <.
+/energy_2.pdf> <./delay_1.pdf> <./delay_2.pdf> <./qoe_1.pdf> <./qoe_2.pdf>]
+<conv1_f.pdf, id=539, 505.89pt x 376.40625pt>
+File: conv1_f.pdf Graphic file (type pdf)
+<use conv1_f.pdf>
+Package pdftex.def Info: conv1_f.pdf  used on input line 1191.
+(pdftex.def)             Requested size: 126.0pt x 93.75098pt.
+<conv2_f.pdf, id=540, 505.89pt x 376.40625pt>
+File: conv2_f.pdf Graphic file (type pdf)
+<use conv2_f.pdf>
+Package pdftex.def Info: conv2_f.pdf  used on input line 1197.
+(pdftex.def)             Requested size: 126.0pt x 93.75098pt.
 
-] (./paper.aux * soulpos - computing points - it may take a few seconds *
+(./paper.bbl [10pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.96 
+      <./conv1_f.pdf> <./conv2_f.pdf>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (696.0pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (696.0pt too high) has occurred while \output is active []
+
+ [11]
+(./paper.aux * soulpos - computing points - it may take a few seconds *
 \openout3 = `paper.upb'.
 
 
@@ -1677,16 +1705,16 @@ l.68
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 6B44E382CE08CCFE806BF5DAE39E739D;3939.
+(rerunfilecheck)             Checksum: D2B3D6A914A6CE9EFD9A2309F09EB333;4216.
  ) 
 Here is how much of TeX's memory you used:
- 40683 strings out of 478994
- 791093 string characters out of 5858183
- 1244834 words of memory out of 5000000
- 56730 multiletter control sequences out of 15000+600000
- 565790 words of font info for 506 fonts, out of 8000000 for 9000
+ 40766 strings out of 478994
+ 792750 string characters out of 5858183
+ 1252588 words of memory out of 5000000
+ 56798 multiletter control sequences out of 15000+600000
+ 565899 words of font info for 519 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 94i,23n,117p,2706b,959s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,23n,117p,2164b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/iman/Library/texlive/2021/texmf-var/fonts/pk/ljfour/public/bbm/bbm10
 .600pk>{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/lo
 cal/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texli
@@ -1715,10 +1743,10 @@ fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/times/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on paper.pdf (10 pages, 868470 bytes).
+Output written on paper.pdf (11 pages, 1042311 bytes).
 PDF statistics:
- 660 PDF objects out of 1000 (max. 8388607)
- 503 compressed objects within 6 object streams
- 103 named destinations out of 1000 (max. 500000)
- 131319 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 739 PDF objects out of 1000 (max. 8388607)
+ 553 compressed objects within 6 object streams
+ 110 named destinations out of 1000 (max. 500000)
+ 129289 words of extra memory for PDF output out of 154059 (max. 10000000)
 
