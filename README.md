@@ -8,9 +8,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/issues) 
 [![GitHub license](https://img.shields.io/github/license/ImanRht/QOCO_IEEEJournal?style=social)](https://github.com/ImanRht/QOCO_IEEEJournal/blob/master/LICENSE) 
 
-This repository contains the TeX files for reproducing the paper submitted to IEEE Internet of Things Journal.
-
-
 ## Cite this Work
 
 If you use this work in your research, please cite it as follows:
