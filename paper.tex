@@ -496,29 +496,29 @@ Dai \textit{et al.} in \cite{dai2020edge} introduced the integration of action r
 
 
 \begin{table*}[htbp]
-	\renewcommand{\arraystretch}{1}
+	\renewcommand{\arraystretch}{0.7}
 	\captionsetup{name=TABLE}
 	\caption{Simulation Parameters}
 	\scalebox{1}{%
 		\begin{tabular}{ lp{1.8cm}p{3cm}p{3.3cm}p{1cm}p{2.5cm}p{2.5cm}l} 
 			\toprule
 			\textbf{Paper} & \textbf{Scenario} &  \textbf{Problem} &  \textbf{Objective} &  \textbf{Model} & \textbf{Algorithm/Methods} &  \textbf{Drawbacks}  \\ \midrule
-			\cite{huang2019deep} & Wireless-powered MEC & &  & & & \\
-			\cite{Bolourian-WCL24} & Wireless-powered MEC & Computation offloading & Minimize drop rate and energy consumption. &  & & \\
-			\cite{zhao2019deep} & MEC & Wireless channels competition & Optimize downlink utility &&& \\
-			\cite{9253665} &  MEC &  Computation offloading & Minimize drop rate and computation delay. & MDP & D3QN + LSTM & Not consider system energy consumtion\\
-			\cite{sun2024hierarchical} & MEC & Computation offloading and service caching & Minimize average service delay && hierarchical DRL & \\
-			\cite{dai2020edge} & MEC & Resource allocation and computation offloading &&& & \\
-			\cite{huang2021deadline} & MEC & & Minimizing total energy consumption & POMDP & & \\
-			\cite{liu2021learn} & MEC & Resource allocation and computation offloading &&  & MADRL & \\
-			\cite{zhou2021deep} & MEC & Resource allocation and computation offloading && MDP & Q-learning & \\
-			\cite{gao2022large} & heterogeneous MEC & Decentralized computation offloading &&& & \\
-			\cite{gong2022edge} & MEC-based IIoT & Resource allocation and computation offloading & Minimize task computation delay and energy consumption && & \\
-			\cite{liao2023online} & MEC & Online computation offloading & Minimize task computation delay and energy consumption && DDQN & \\
-			\cite{wu2023multi} & MEC-based IIoT & Computation offloading & Optimization of delay and energy consumption & POMDP & Multi-agent DQN& \\
-			\cite{wu2023computation} & SDN-based MEC & Stochastic game-based resource allocation & Minimize energy consumption and processing delay & MDP & MARL & \\
-			\cite{wu2024privacy} & MEC-based IIoT  & Joint power allocation and computation offloading  & Optimization of privacy protection and quality of service. & MDP & Multi-agent Actor–critic network & \\
-			\cite{wu2024combining} & MEC-based IIoT & Privacy aware computation offloading & Optimization of computation rate and energy consumption & MDP & Actor–critic network  & \\
+			\cite{huang2019deep} & Wireless-powered MEC & Computation offloading and resource allocations & Maximize computation rate & MIP & DQN & \\\midrule
+			\cite{Bolourian-WCL24} & Wireless-powered MEC & Computation offloading & Minimize drop rate and energy consumption. & MDP  & Deep Q-Learning & \\\midrule
+			\cite{zhao2019deep} & MEC & Wireless channels competition & Optimize downlink utility & MDP & Multi-agent D3QN & \\\midrule
+			\cite{9253665} &  MEC &  Computation offloading & Minimize drop rate and computation delay. & MDP & D3QN + LSTM & Not consider system energy consumtion\\\midrule
+			\cite{sun2024hierarchical} & MEC & Computation offloading and service caching & Minimize average service delay & MDP & hierarchical DRL & \\\midrule
+			\cite{dai2020edge} & MEC & Resource allocation and computation offloading & Minimize energy consumption & MDP & DDPG & \\\midrule
+			\cite{huang2021deadline} & MEC & Computation offloading & Minimizing total energy consumption & POMDP & DDPG & \\ \midrule
+			\cite{liu2021learn} & MEC & Resource allocation and computation offloading & Minimize execution cost & POMDP & MADRL & \\\midrule
+			\cite{zhou2021deep} & MEC & Resource allocation and computation offloading & Minimize energy consumption & MDP & DDQN & \\\midrule
+			\cite{gao2022large} & heterogeneous MEC & Decentralized computation offloading & Optimize system cost and completion rates & MDP & Multi-agent DDPG & \\\midrule
+			\cite{gong2022edge} & MEC-based IIoT & Resource allocation and computation offloading & Minimize task computation delay and energy consumption & MDP & DRL & \\\midrule
+			\cite{liao2023online} & MEC & Online computation offloading & Minimize computation delay and energy consumption & MDP & DDQN & \\\midrule
+			\cite{wu2023multi} & MEC-based IIoT & Computation offloading & Optimize delay and energy consumption & POMDP & Multi-agent DQN& \\\midrule
+			\cite{wu2023computation} & SDN-based MEC & Stochastic game-based resource allocation & Minimize energy consumption and processing delay & MDP & MARL & \\\midrule
+			\cite{wu2024privacy} & MEC-based IIoT  & Joint power allocation and computation offloading  & Optimization of privacy protection and quality of service. & MDP & Multi-agent DDPG & \\\midrule
+			\cite{wu2024combining} & MEC-based IIoT & Privacy aware computation offloading & Optimization of computation rate and energy consumption & MDP & DDPG  & \\\midrule
 			QECO &  MEC &  Computation offloading & Maximize the QoE of each MD individually &MDP & D3QN + LSTM & \\
 			\toprule
 	\end{tabular}}
