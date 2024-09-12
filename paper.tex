@@ -495,6 +495,35 @@ To cope with the dynamic nature of the network, recent research has proposed sev
 Dai \textit{et al.} in \cite{dai2020edge} introduced the integration of action refinement into DRL and designed an algorithm to concurrently optimize resource allocation and computation offloading. In \cite{huang2021deadline}, Huang \textit{et al.} proposed a DRL-based method based on a partially observable MDP, which guarantees the deadlines of real-time tasks while minimizing the total energy consumption of MDs. Liu  \textit{et al.} in \cite{liu2021learn} investigated a two-timescale computing offloading and resource allocation problem and proposed a resource coordination algorithm based on multi-agent DRL, which can generate interactive information along with resource decisions. Zhou \textit{et al.} in \cite{zhou2021deep} used an MDP to study MEC and modeled the interactions of the environment. They proposed a Q-learning approach to achieve optimal resource allocation strategies and computation offloading. In \cite{gao2022large}, Gao \textit{et al.} introduced an attention-based multi-agent algorithm designed for decentralized computation offloading. This algorithm effectively tackles the challenges of dynamic resource allocation in large-scale heterogeneous networks. Gong \textit{et al.} in \cite{gong2022edge} proposed a DRL-based network structure in the industrial IoT systems to jointly optimize task offloading and resource allocation in order to achieve lower  energy consumption and decreased task delay. Liao \textit{et al.} in \cite{liao2023online} introduced a double reinforcement learning algorithm for performing online computation offloading in MEC. This algorithm optimizes transmission power and scheduling of CPU frequency when minimizing both task computation delay and energy consumption.
 
 
+\begin{table*}[htbp]
+	\renewcommand{\arraystretch}{1}
+	\captionsetup{name=TABLE}
+	\caption{Simulation Parameters}
+	\scalebox{1}{%
+		\begin{tabular}{ lp{1.8cm}p{3cm}p{3.3cm}p{1cm}p{2.5cm}p{2.5cm}l} 
+			\toprule
+			\textbf{Paper} & \textbf{Scenario} &  \textbf{Problem} &  \textbf{Objective} &  \textbf{Model} & \textbf{Algorithm/Methods} &  \textbf{Drawbacks}  \\ \midrule
+			\cite{huang2019deep} & Wireless-powered MEC & &  & & & \\
+			\cite{Bolourian-WCL24} & Wireless-powered MEC & Computation offloading & Minimize drop rate and energy consumption. &  & & \\
+			\cite{zhao2019deep} & MEC & Wireless channels competition & Optimize downlink utility &&& \\
+			\cite{9253665} &  MEC &  Computation offloading & Minimize drop rate and computation delay. & MDP & D3QN + LSTM & Not consider system energy consumtion\\
+			\cite{sun2024hierarchical} & MEC & Computation offloading and service caching & Minimize average service delay && hierarchical DRL & \\
+			\cite{dai2020edge} & MEC & Resource allocation and computation offloading &&& & \\
+			\cite{huang2021deadline} & MEC & & Minimizing total energy consumption & POMDP & & \\
+			\cite{liu2021learn} & MEC & Resource allocation and computation offloading &&  & MADRL & \\
+			\cite{zhou2021deep} & MEC & Resource allocation and computation offloading && MDP & Q-learning & \\
+			\cite{gao2022large} & heterogeneous MEC & Decentralized computation offloading &&& & \\
+			\cite{gong2022edge} & MEC-based IIoT & Resource allocation and computation offloading & Minimize task computation delay and energy consumption && & \\
+			\cite{liao2023online} & MEC & Online computation offloading & Minimize task computation delay and energy consumption && DDQN & \\
+			\cite{wu2023multi} & MEC-based IIoT & Computation offloading & Optimization of delay and energy consumption & POMDP & Multi-agent DQN& \\
+			\cite{wu2023computation} & SDN-based MEC & Stochastic game-based resource allocation & Minimize energy consumption and processing delay & MDP & MARL & \\
+			\cite{wu2024privacy} & MEC-based IIoT  & Joint power allocation and computation offloading  & Optimization of privacy protection and quality of service. & MDP & Multi-agent Actor–critic network & \\
+			\cite{wu2024combining} & MEC-based IIoT & Privacy aware computation offloading & Optimization of computation rate and energy consumption & MDP & Actor–critic network  & \\
+			QECO &  MEC &  Computation offloading & Maximize the QoE of each MD individually &MDP & D3QN + LSTM & \\
+			\toprule
+	\end{tabular}}
+	\label{table}
+\end{table*}
 
 
 
