@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.28)  13 SEP 2024 06:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.28)  14 SEP 2024 04:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1354,12 +1354,6 @@ LaTeX Warning: Label `26' multiply defined.
 
 LaTeX Warning: Label `26@cref' multiply defined.
 
-
-LaTeX Warning: Label `table' multiply defined.
-
-
-LaTeX Warning: Label `table@cref' multiply defined.
-
 )
 \openout1 = `paper.aux'.
 
@@ -1521,276 +1515,177 @@ Package lettrine.sty Info: Targeted height = 17.14496pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.14503pt (M);
 (lettrine.sty)             reported on input line 479.
-
-Overfull \hbox (3.60428pt too wide) in paragraph at lines 510--510
-[]|\T1/ptm/b/n/8 (-20) Algorithm/Methods| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Wireless-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Computation of-fload-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Not con-sider delay-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Computation of-fload-ing
- []
-
-
-Overfull \hbox (4.24628pt too wide) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (-20) POMDP| 
- []
-
-
-Overfull \hbox (4.24628pt too wide) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (-20) POMDP| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Not con-sider delay-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) heterogeneous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) heterogeneous
- []
-
-
-Underfull \hbox (badness 2384) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Optimize sys-tem cost and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) MEC-based
- []
-
-
-Underfull \hbox (badness 4531) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) Online com-pu-ta-tion of-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) MEC-based
- []
-
-
-Overfull \hbox (4.24628pt too wide) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (-20) POMDP| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) SDN-based
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) MEC-based
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--510
-[]|\T1/ptm/m/n/8 (+20) MEC-based
- []
-
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 \openout3 = `paper.upa'.
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.570 		
-        ]
 \LTGbeginlineexample=\count421
 \LTGendlineexample=\count422
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Fig/queue.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<Fig/queue.pdf, id=212, 782.925pt x 277.9986pt>
+<Fig/queue.pdf, id=182, 782.925pt x 277.9986pt>
 File: Fig/queue.pdf Graphic file (type pdf)
 <use Fig/queue.pdf>
-Package pdftex.def Info: Fig/queue.pdf  used on input line 631.
+Package pdftex.def Info: Fig/queue.pdf  used on input line 592.
 (pdftex.def)             Requested size: 226.79846pt x 80.52844pt.
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.601 
+       <./Fig/queue.pdf>]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 662.
+(amsmath)                 on input line 623.
 
-[3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.662 		\end{alignat}
-                      <./Fig/queue.pdf>]
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 720
+[3]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 681
 .
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-) [4] [5]
+) [4]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Fig/DQN.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<Fig/DQN.pdf, id=296, 902.41138pt x 529.01637pt>
+<Fig/DQN.pdf, id=270, 902.41138pt x 529.01637pt>
 File: Fig/DQN.pdf Graphic file (type pdf)
 <use Fig/DQN.pdf>
-Package pdftex.def Info: Fig/DQN.pdf  used on input line 847.
+Package pdftex.def Info: Fig/DQN.pdf  used on input line 808.
 (pdftex.def)             Requested size: 252.0pt x 147.72803pt.
-[6pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.882 		\subsubsection
-                      {Dueling-DQN Approach for Q-Value Estimation} <./Fig/DQN.
-pdf>]
+l.819 
+       <./Fig/DQN.pdf>]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 903.
+put line 864.
+ [6]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 907.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 946.
+(hyperref)                removing `\in' on input line 907.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\in' on input line 946.
+(hyperref)                removing `math shift' on input line 907.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 946.
-
-[7]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1004.
+(hyperref)                removing `math shift' on input line 961.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\in' on input line 1004.
+(hyperref)                removing `\in' on input line 961.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1004.
+(hyperref)                removing `math shift' on input line 961.
 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.28
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1010 		\end{alignat}
-                      
-Underfull \hbox (badness 10000) in paragraph at lines 1024--1026
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--980
 
  []
 
-[8]
-<Fig/completed_tasks_1.pdf, id=378, 455.7025pt x 426.59375pt>
+[7pdfTeX warning (ext4): destination with the same identifier (name{equation.4.
+28}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.985 
+      ]
+<Fig/completed_tasks_1.pdf, id=351, 455.7025pt x 426.59375pt>
 File: Fig/completed_tasks_1.pdf Graphic file (type pdf)
 <use Fig/completed_tasks_1.pdf>
-Package pdftex.def Info: Fig/completed_tasks_1.pdf  used on input line 1143.
+Package pdftex.def Info: Fig/completed_tasks_1.pdf  used on input line 1097.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
-<Fig/completed_tasks_2.pdf, id=379, 455.7025pt x 426.59375pt>
+<Fig/completed_tasks_2.pdf, id=352, 455.7025pt x 426.59375pt>
 File: Fig/completed_tasks_2.pdf Graphic file (type pdf)
 <use Fig/completed_tasks_2.pdf>
-Package pdftex.def Info: Fig/completed_tasks_2.pdf  used on input line 1149.
+Package pdftex.def Info: Fig/completed_tasks_2.pdf  used on input line 1103.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
-<Fig/energy_1.pdf, id=380, 455.7025pt x 426.59375pt>
+<Fig/energy_1.pdf, id=353, 455.7025pt x 426.59375pt>
 File: Fig/energy_1.pdf Graphic file (type pdf)
 <use Fig/energy_1.pdf>
-Package pdftex.def Info: Fig/energy_1.pdf  used on input line 1163.
+Package pdftex.def Info: Fig/energy_1.pdf  used on input line 1117.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
-<Fig/energy_2.pdf, id=381, 455.7025pt x 426.59375pt>
+<Fig/energy_2.pdf, id=354, 455.7025pt x 426.59375pt>
 File: Fig/energy_2.pdf Graphic file (type pdf)
 <use Fig/energy_2.pdf>
-Package pdftex.def Info: Fig/energy_2.pdf  used on input line 1169.
+Package pdftex.def Info: Fig/energy_2.pdf  used on input line 1123.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
-<Fig/delay_1.pdf, id=382, 455.7025pt x 427.5975pt>
+<Fig/delay_1.pdf, id=355, 455.7025pt x 427.5975pt>
 File: Fig/delay_1.pdf Graphic file (type pdf)
 <use Fig/delay_1.pdf>
-Package pdftex.def Info: Fig/delay_1.pdf  used on input line 1181.
+Package pdftex.def Info: Fig/delay_1.pdf  used on input line 1135.
 (pdftex.def)             Requested size: 126.0pt x 118.22581pt.
-<Fig/delay_2.pdf, id=383, 455.7025pt x 426.59375pt>
+<Fig/delay_2.pdf, id=356, 455.7025pt x 426.59375pt>
 File: Fig/delay_2.pdf Graphic file (type pdf)
 <use Fig/delay_2.pdf>
-Package pdftex.def Info: Fig/delay_2.pdf  used on input line 1187.
+Package pdftex.def Info: Fig/delay_2.pdf  used on input line 1141.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
-<Fig/qoe_1.pdf, id=384, 455.7025pt x 424.58624pt>
+<Fig/qoe_1.pdf, id=357, 455.7025pt x 424.58624pt>
 File: Fig/qoe_1.pdf Graphic file (type pdf)
 <use Fig/qoe_1.pdf>
-Package pdftex.def Info: Fig/qoe_1.pdf  used on input line 1199.
+Package pdftex.def Info: Fig/qoe_1.pdf  used on input line 1153.
 (pdftex.def)             Requested size: 126.0pt x 117.39323pt.
-<Fig/qoe_2.pdf, id=385, 455.7025pt x 426.59375pt>
+<Fig/qoe_2.pdf, id=358, 455.7025pt x 426.59375pt>
 File: Fig/qoe_2.pdf Graphic file (type pdf)
 <use Fig/qoe_2.pdf>
-Package pdftex.def Info: Fig/qoe_2.pdf  used on input line 1205.
+Package pdftex.def Info: Fig/qoe_2.pdf  used on input line 1159.
 (pdftex.def)             Requested size: 126.0pt x 117.94829pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+ [8pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1220 		
-         pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.1220 		
-         pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.1220 		
-          <./Fig/completed_tasks_1.pdf> <./Fig/completed_tasks_2.pdf> <./Fig/en
-ergy_1.pdf> <./Fig/energy_2.pdf>]
-<Fig/conv1_f.pdf, id=485, 505.89pt x 376.40625pt>
+l.1174 
+       ]
+<Fig/conv1_f.pdf, id=381, 505.89pt x 376.40625pt>
 File: Fig/conv1_f.pdf Graphic file (type pdf)
 <use Fig/conv1_f.pdf>
-Package pdftex.def Info: Fig/conv1_f.pdf  used on input line 1243.
+Package pdftex.def Info: Fig/conv1_f.pdf  used on input line 1197.
 (pdftex.def)             Requested size: 126.0pt x 93.75098pt.
-<Fig/conv2_f.pdf, id=486, 505.89pt x 376.40625pt>
+<Fig/conv2_f.pdf, id=382, 505.89pt x 376.40625pt>
 File: Fig/conv2_f.pdf Graphic file (type pdf)
 <use Fig/conv2_f.pdf>
-Package pdftex.def Info: Fig/conv2_f.pdf  used on input line 1249.
+Package pdftex.def Info: Fig/conv2_f.pdf  used on input line 1203.
 (pdftex.def)             Requested size: 126.0pt x 93.75098pt.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
-) has been already used, duplicate ignored
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1266 		
-         pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.6}) has been already used, duplicate ignored
+l.1220 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1266 		
-         pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.7}) has been already used, duplicate ignored
+l.1220 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.1266 		
-          <./Fig/delay_1.pdf> <./Fig/delay_2.pdf> <./Fig/qoe_1.pdf> <./Fig/qoe_
-2.pdf> <./Fig/conv1_f.pdf> <./Fig/conv2_f.pdf>] (./paper.bbl) [11] (./paper.aux
+l.1220 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.1220 
+        <./Fig/completed_tasks_1.pdf> <./Fig/completed_tasks_2.pdf> <./Fig/ener
+gy_1.pdf> <./Fig/energy_2.pdf> <./Fig/delay_1.pdf> <./Fig/delay_2.pdf> <./Fig/q
+oe_1.pdf> <./Fig/qoe_2.pdf>] (./paper.bbl) [10pdfTeX warning (ext4): destinatio
+n with the same identifier (name{figure.7}) has been already used, duplicate ig
+nored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.1294 \end{document}
+                      <./Fig/conv1_f.pdf> <./Fig/conv2_f.pdf>] (./paper.aux
 * soulpos - computing points - it may take a few seconds *
 \openout3 = `paper.upb'.
 
@@ -1802,13 +1697,13 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 0FF535AA68A2A7FF212315F4F8FA7458;4541.
  ) 
 Here is how much of TeX's memory you used:
- 40766 strings out of 478994
- 792568 string characters out of 5858183
- 1245442 words of memory out of 5000000
- 56776 multiletter control sequences out of 15000+600000
- 565941 words of font info for 522 fonts, out of 8000000 for 9000
+ 40719 strings out of 478994
+ 791941 string characters out of 5858183
+ 1254666 words of memory out of 5000000
+ 56764 multiletter control sequences out of 15000+600000
+ 564518 words of font info for 503 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 94i,23n,117p,2049b,822s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 94i,23n,117p,2047b,824s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/iman/Library/texlive/2021/texmf-var/fonts/pk/ljfour/public/bbm/bbm10
 .600pk>{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/lo
 cal/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texli
@@ -1837,10 +1732,10 @@ fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
 1/urw/times/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on paper.pdf (11 pages, 1044590 bytes).
+Output written on paper.pdf (10 pages, 1039614 bytes).
 PDF statistics:
- 760 PDF objects out of 1000 (max. 8388607)
- 574 compressed objects within 6 object streams
- 115 named destinations out of 1000 (max. 500000)
+ 729 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 108 named destinations out of 1000 (max. 500000)
  129305 words of extra memory for PDF output out of 154059 (max. 10000000)
 
